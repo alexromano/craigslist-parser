@@ -1,0 +1,150 @@
+[
+  {
+    "neighborhood": "SOMA / south beach",
+    "value": "1"
+  },
+  {
+    "neighborhood": "USF / panhandle",
+    "value": "2"
+  },
+  {
+    "neighborhood": "bernal heights",
+    "value": "3"
+  },
+  {
+    "neighborhood": "castro / upper market",
+    "value": "4"
+  },
+  {
+    "neighborhood": "cole valley / ashbury hts",
+    "value": "5"
+  },
+  {
+    "neighborhood": "downtown / civic / van ness",
+    "value": "6"
+  },
+  {
+    "neighborhood": "excelsior / outer mission",
+    "value": "7"
+  },
+  {
+    "neighborhood": "financial district",
+    "value": "8"
+  },
+  {
+    "neighborhood": "glen park",
+    "value": "9"
+  },
+  {
+    "neighborhood": "lower haight",
+    "value": "10"
+  },
+  {
+    "neighborhood": "haight ashbury",
+    "value": "11"
+  },
+  {
+    "neighborhood": "hayes valley",
+    "value": "12"
+  },
+  {
+    "neighborhood": "ingleside / SFSU / CCSF",
+    "value": "13"
+  },
+  {
+    "neighborhood": "inner richmond",
+    "value": "14"
+  },
+  {
+    "neighborhood": "inner sunset / UCSF",
+    "value": "15"
+  },
+  {
+    "neighborhood": "laurel hts / presidio",
+    "value": "16"
+  },
+  {
+    "neighborhood": "marina / cow hollow",
+    "value": "17"
+  },
+  {
+    "neighborhood": "mission district",
+    "value": "18"
+  },
+  {
+    "neighborhood": "nob hill",
+    "value": "19"
+  },
+  {
+    "neighborhood": "lower nob hill",
+    "value": "20"
+  },
+  {
+    "neighborhood": "noe valley",
+    "value": "21"
+  },
+  {
+    "neighborhood": "north beach / telegraph hill",
+    "value": "22"
+  },
+  {
+    "neighborhood": "pacific heights",
+    "value": "23"
+  },
+  {
+    "neighborhood": "lower pac hts",
+    "value": "24"
+  },
+  {
+    "neighborhood": "potrero hill",
+    "value": "25"
+  },
+  {
+    "neighborhood": "richmond / seacliff",
+    "value": "26"
+  },
+  {
+    "neighborhood": "russian hill",
+    "value": "27"
+  },
+  {
+    "neighborhood": "sunset / parkside",
+    "value": "28"
+  },
+  {
+    "neighborhood": "twin peaks / diamond hts",
+    "value": "29"
+  },
+  {
+    "neighborhood": "western addition",
+    "value": "30"
+  },
+  {
+    "neighborhood": "bayview",
+    "value": "110"
+  },
+  {
+    "neighborhood": "west portal / forest hill",
+    "value": "114"
+  },
+  {
+    "neighborhood": "visitacion valley",
+    "value": "118"
+  },
+  {
+    "neighborhood": "alamo square / nopa",
+    "value": "149"
+  },
+  {
+    "neighborhood": "tenderloin",
+    "value": "156"
+  },
+  {
+    "neighborhood": "treasure island",
+    "value": "157"
+  },
+  {
+    "neighborhood": "portola district",
+    "value": "164"
+  }
+]

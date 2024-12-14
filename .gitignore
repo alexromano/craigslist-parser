@@ -1,0 +1,4 @@
+__pyycache__
+.env
+*.html
+scratch.py
