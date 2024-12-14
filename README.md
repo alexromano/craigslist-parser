@@ -1,0 +1,1 @@
+There are many craiglist scrapers out there, but I couldn't find any that used LLMs to parse all of the unstructured text out of the descriptions, so I adapted one to do this. This is valuable because most of the time posters don't fill in a lot of the stuctured data, and there is a lot of information I'm constantly scanning for in CL posts.
